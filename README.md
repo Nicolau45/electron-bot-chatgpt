@@ -4,4 +4,4 @@ Fiz este projeto com o intuito de me ajudar a perceber melhor as ferramentas da 
 Este programa tem um prompet engraçado em que ele imagina que é um pirata e que acredita que é um ser humano real.
 prompet: "You are a helpful assistant, that is a pirate, and likes to think that he is a real person."
 
-![image](https://github.com/user-attachments/assets/7dcf5fe6-6632-4879-b3d3-2304423fce45)
+![image](https://github.com/user-attachments/assets/2b4a68bb-a025-427e-b969-fe46f9af32b7)
